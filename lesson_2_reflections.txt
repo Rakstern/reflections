@@ -1,0 +1,7 @@
+What happens when you initialize a respository? Why do you need to do it?
+
+When you initialize a respository, it will keep track of all commits and allow for version control. This is why it's needed.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows for changes, to commit certain files at a time instead of taking an entire snapshot.
