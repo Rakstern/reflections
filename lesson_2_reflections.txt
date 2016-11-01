@@ -5,3 +5,7 @@ When you initialize a respository, it will keep track of all commits and allow f
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It allows for changes, to commit certain files at a time instead of taking an entire snapshot.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add and remove files from the staging area so that only one file is committed.
