@@ -9,3 +9,7 @@ It allows for changes, to commit certain files at a time instead of taking an en
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can add and remove files from the staging area so that only one file is committed.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can allow for different variations of the files whilst having an organised log of each committed variation.
