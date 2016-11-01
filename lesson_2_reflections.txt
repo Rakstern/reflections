@@ -21,3 +21,7 @@ They help us keep track of the parents of each commit and the branches of each c
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging the two allow for the files to be merged, and representing it the way we do helps us understand it's parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automerge is useful in saving time, but may result in an error. Manual can ensure no errors, but may be time consuming.
