@@ -13,3 +13,7 @@ You can add and remove files from the staging area so that only one file is comm
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches can allow for different variations of the files whilst having an organised log of each committed variation.
+
+How do the diagrams help you visualize the branch structure?
+
+They help us keep track of the parents of each commit and the branches of each commit
