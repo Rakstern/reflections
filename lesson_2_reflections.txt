@@ -17,3 +17,7 @@ Branches can allow for different variations of the files whilst having an organi
 How do the diagrams help you visualize the branch structure?
 
 They help us keep track of the parents of each commit and the branches of each commit
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging the two allow for the files to be merged, and representing it the way we do helps us understand it's parents.
